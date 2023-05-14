@@ -190,6 +190,8 @@ nav .create_account {
 
 .aboutus_container .video {
     background-color: lightgray;
+    background-image: url('https://images.pexels.com/photos/5339078/pexels-photo-5339078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: 70%;
     height: 150px;
     width: 100%;
     border-radius: 8px;
@@ -268,6 +270,8 @@ nav .create_account {
 }
 
 .feature_container .pic {
+    background-image: url('https://images.pexels.com/photos/670705/pexels-photo-670705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: 40%;
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -275,6 +279,9 @@ nav .create_account {
 }
 
 .feature_container .graybar {
+    background-image: url('https://images.pexels.com/photos/5864304/pexels-photo-5864304.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    background-position: 40%;
+    object-fit: cover;
     width: 100%;
     height: 700px;
     background-color: lightgray;
@@ -294,6 +301,7 @@ nav .create_account {
 }
 
 .whyus_container .pic_container {
+    background-image: url('https://images.pexels.com/photos/7594058/pexels-photo-7594058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     height: 375px;
     width: 100%;
     background-color: lightgray;
@@ -357,6 +365,8 @@ nav .create_account {
 }
 
 .menu_container .pic {
+    background-image: url('https://images.pexels.com/photos/3763792/pexels-photo-3763792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: 41%;
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -380,6 +390,8 @@ nav .create_account {
 }
 
 .customer_container .left {
+    background-image: url('https://images.pexels.com/photos/6249501/pexels-photo-6249501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: 25%;
     width: 700px;
     height: 500px;
     background-color: lightgray;
@@ -495,6 +507,8 @@ nav .create_account {
 }
 
 .blog_container .content {
+    background-image: url('https://images.pexels.com/photos/6937456/pexels-photo-6937456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: center;
     background-color: lightgray;
     width: 390px;
     height: 350px;
